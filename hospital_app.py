@@ -56,7 +56,7 @@ dept_map_inv = bundle ['dept_map_inv']
 gender_map = bundle['gender_map']
 temp_map = bundle['temp_map']
 hr_map = bundle['hr_map']
-dur-map = bundle['dur_map']
+dur_map = bundle['dur_map']
 cc_map = bundle['cc_map'] 
 
 DEPT_INFO = {
